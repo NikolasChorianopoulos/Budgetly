@@ -3,7 +3,7 @@
 Μια no-code web εφαρμογή για την παρακολούθηση προσωπικών χρηματικών εξόδων, υλοποιημένη με το GlideApps.  
 Η εφαρμογή είναι προσβάσιμη από υπολογιστή και κινητό, και χρησιμοποιείται για την καταγραφή, κατηγοριοποίηση και ανάλυση εξόδων.
 
-## 🔑 Χαρακτηριστικά
+## Χαρακτηριστικά
 
 - **Καταγραφή ημερήσιων εξόδων**  
   - Ποσό, κατηγορία, ημερομηνία (αυτόματη ή χειροκίνητη επιλογή)
@@ -23,27 +23,29 @@
   - Δυνατότητα επεξεργασίας / διαγραφής κατηγοριών
   - Mobile-friendly & desktop-friendly
 
-## ⚙️ Τεχνολογίες
+## Τεχνολογίες
 
 - **GlideApps** (no-code app builder)
 
 
-## 📌 Σημειώσεις
+## Σημειώσεις
 
 - Η εφαρμογή είναι στα ελληνικά.  
 - Προς το παρόν δεν υπάρχει υποστήριξη αλλαγής γλώσσας (θα εξεταστεί για επόμενες εκδόσεις).
 - Η εφαρμογή είναι λειτουργική αλλά υπό ανάπτυξη (προγραμματίζεται onboarding page και επιπλέον customization).
 
-## 📷 Screenshots
+##  Screenshots
 
 _Θα μπουν εικόνες εδώ (παράδειγμα):_
 
-![Expenses screen](images/expenses_screen.png)  
-![Summary screen](images/summary_screen.png)  
+![Expenses screen](images/expenses.png)
+![New expense screen](images/new_expense.png)
+![Summary screen](images/summary.png)
+![Categories screen](images/categories.png)
 
-## 🔗 Demo
+##  Demo
 
-👉 [Δοκιμάστε την εφαρμογή εδώ](https://budgetly.glide.page/)
+[Δοκιμάστε την εφαρμογή εδώ](https://budgetly.glide.page/)
 
 ---
 
